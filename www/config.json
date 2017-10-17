@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl" : "http://61.91.109.46/eva/",
+    "siteurl" : "http://202.29.238.158/moodle3/",
     "gcmpn": "860098238828",
     "customurlscheme": "moodlemobile"
 }
