@@ -2,7 +2,7 @@
 <widget id="it.kvc.elearning" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>KVC EVA</name>
   <description>Khon Kaen Vocational College TEST Mobile app</description>
-  <author href="https://202.29.238.158/moodle3/" email="kruded@kvc.ac.th">IT KVC e-Learning Support</author>
+  <author href="http://61.91.109.46/eva/" email="kruded@kvc.ac.th">IT KVC e-Learning Support</author>
   <content src="index.html"/>
   <access origin="*"/>
 
