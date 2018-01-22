@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl" : "http://202.29.238.158/moodle3/",
+    "siteurl" : "http://eva.kvc.ac.th",
     "gcmpn": "860098238828",
     "customurlscheme": "moodlemobile"
 }
